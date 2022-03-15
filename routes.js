@@ -7,6 +7,13 @@ router.get('/', (req,res,next) => {
        `
        <h1>
        Welcome to Express</h1>
+       <br/>
+       <br/>
+       <h2>
+       routes: 
+       /profile
+       /product
+       </h2>
        `
     );
 });
